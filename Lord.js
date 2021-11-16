@@ -443,7 +443,8 @@ var waktoo = date.getHours();
 					limit: 'Limit kamu habis lord , Silahkan beli dengan #buylimit <nominal> atau minta gift dari user lain',
 					sewabot: ` 「 *SEWA BOT* 」 \n\nBerikut list sewa bot kami
 
-•> 25k / BULAN (PREMIUM)
+•> 15k / BULAN (PREMIUM)
+•> 20k / PERMANENT (PREMIUM)
 Isi sendiri
 
 Minat? Pm wa.me/${owner_number}`,
